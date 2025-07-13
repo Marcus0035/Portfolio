@@ -27,7 +27,8 @@ A tool for musicians to explore chords, scales, and intervals. Planned features 
 ---
 
 ## 💰 Volleyball Payment
-**Tech:** Blazor, MAUI, SQLite, MudBlazor, personal project focused on payment processing or invoicing (in progress).  
+**Tech:** Blazor, MAUI, SQLite, MudBlazor
+Personal project focused on payment after trainings.  
 📎 [Repository](https://github.com/Marcus0035/PlatiKrab)
 
 ---
