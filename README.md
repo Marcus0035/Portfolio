@@ -20,14 +20,14 @@ Internal order management system with login, database access via EF Core, and mo
 ---
 
 ## 🎼 KeyChordFinder
-**Tech:** Blazor, Music Theory Logic  
+**Tech:** Blazor, MAUI, SQLite, MudBlazor, Music Theory Logic  
 A tool for musicians to explore chords, scales, and intervals. Planned features include ear training, metronome, music theory, and tuner tools.  
 📎 [Repository](https://github.com/Marcus0035/KeyChordFinder)
 
 ---
 
-## 💰 PlatiKrab
-Details coming soon – a personal project focused on payment processing or invoicing (in progress).  
+## 💰 Volleyball Payment
+**Tech:** Blazor, MAUI, SQLite, MudBlazor, personal project focused on payment processing or invoicing (in progress).  
 📎 [Repository](https://github.com/Marcus0035/PlatiKrab)
 
 ---
