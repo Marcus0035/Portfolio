@@ -6,12 +6,9 @@ Welcome to my developer portfolio. Here you'll find my most important projects c
 ---
 
 ## 🚗 Fun Cars
-**Tech:** HTML, CSS, JavaScript, Google Calendar API  
-Developed and deployed a responsive website for **fun-cars.cz**.  
-Built with pure HTML, CSS, and JavaScript, featuring integration with the **Google Calendar API** for scheduling and reservation management, and **email notifications** for confirmations and new requests.  
-Handled full deployment and hosting setup.  
-📎 [Website](https://fun-cars.cz/)
-
+**Tech:** HTML, CSS, JavaScript  
+Developed and deployed a responsive website for **[fun-cars.cz](https://fun-cars.cz/)** using pure HTML, CSS, and JavaScript.  
+The site showcases available vehicles and allows visitors to contact the company via email for reservations.
 
 ---
 
