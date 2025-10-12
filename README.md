@@ -7,8 +7,9 @@ Welcome to my developer portfolio. Here you'll find my most important projects c
 
 ## 🚗 Fun Cars
 **Tech:** HTML, CSS, JavaScript  
-Developed and deployed a responsive website for **[fun-cars.cz](https://fun-cars.cz/)** using pure HTML, CSS, and JavaScript.  
+Developed and deployed a responsive website for **fun-cars.cz** using pure HTML, CSS, and JavaScript.  
 The site showcases available vehicles and allows visitors to contact the company via email for reservations.
+📎 [fun-cars.cz](https://fun-cars.cz/)
 
 ---
 
