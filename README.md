@@ -5,7 +5,7 @@ Welcome to my developer portfolio. Here you'll find my most important projects c
 
 ---
 
-⚓ BattleShips API
+## ⚓ BattleShips API
 
 Tech: ASP.NET Core (.NET 8), EF Core, SQL Server, Swagger, Docker, Docker Compose, xUnit
 
@@ -18,15 +18,18 @@ Backend REST API for a Battleships game implemented in ASP.NET Core. Handles gam
 ## 🚗 Fun Cars
 **Tech:** HTML, CSS, JavaScript, Google Calendar API  
 Developed and deployed a responsive presentation website for **fun-cars.cz** using pure HTML, CSS, and JavaScript.  
-The site displays available days connected to a Google Calendar and includes an email contact form for inquiries.  
+The site displays available days connected to a Google Calendar and includes an email contact form for inquiries. 
+
 📎 [fun-cars.cz](https://fun-cars.cz/)
 
 
 ---
 
 ## 🔔 FL Studio Price Checker
+
 **Tech:** .NET 9, Playwright, MailKit, Docker  
 Automatically monitors the FL Studio price and sends HTML email notifications when the price drops. Supports Docker, retry logic, logging, and Gmail SMTP.  
+
 📎 [Repository](https://github.com/Marcus0035/FlChecker2)
 
 ---
@@ -34,13 +37,15 @@ Automatically monitors the FL Studio price and sends HTML email notifications wh
 ## 🧾 Order Management System
 **Tech:** .NET 6, Blazor, MudBlazor, MSSQL  
 Internal order management system with login, database access via EF Core, and modern UI components using MudBlazor.  
+
 📎 [Repository](https://github.com/Marcus0035/OrderManagement)
 
 ---
 
 ## 🎼 KeyChordFinder
 **Tech:** Blazor, MAUI, SQLite, MudBlazor, Music Theory Logic  
-A tool for musicians to explore chords, scales, and intervals. Planned features include ear training, metronome, music theory, and tuner tools.  
+A tool for musicians to explore chords, scales, and intervals. Planned features include ear training, metronome, music theory, and tuner tools. 
+
 📎 [Repository](https://github.com/Marcus0035/KeyChordFinder)
 
 ---
@@ -48,6 +53,7 @@ A tool for musicians to explore chords, scales, and intervals. Planned features 
 ## 💰 Volleyball Payment
 **Tech:** Blazor, MAUI, SQLite, MudBlazor
 Personal project focused on payment after trainings.  
+
 📎 [Repository](https://github.com/Marcus0035/PlatiKrab)
 
 ---
