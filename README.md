@@ -5,6 +5,14 @@ Welcome to my developer portfolio. Here you'll find my most important projects c
 
 ---
 
+⚓ BattleShips API
+
+Tech: ASP.NET Core (.NET 8), EF Core, SQL Server, Swagger, Docker, Docker Compose, xUnit
+Backend REST API for a Battleships game implemented in ASP.NET Core. Handles game creation, player management, game state, and shooting logic. Supports both database-backed and in-memory repositories, includes automated tests, Swagger documentation, and a fully containerized setup using Docker and Docker Compose.
+📎 [Repository](https://github.com/Marcus0035/BattleShips)
+
+---
+
 ## 🚗 Fun Cars
 **Tech:** HTML, CSS, JavaScript, Google Calendar API  
 Developed and deployed a responsive presentation website for **fun-cars.cz** using pure HTML, CSS, and JavaScript.  
