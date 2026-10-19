@@ -54,7 +54,7 @@ Internal order management system with login, database access via EF Core, and mo
 **Tech:** Blazor, MAUI, SQLite, MudBlazor, Music Theory Logic  
 A tool for musicians to explore chords, scales, and intervals. Planned features include ear training, metronome, music theory, and tuner tools. 
 
-📎 [Repository](https://github.com/Marcus0035/KeyChordFinder)
+📎 [Repository](https://github.com/Marcus0035/KeyChordFinderMaui)
 
 ---
 
