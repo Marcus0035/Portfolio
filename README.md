@@ -43,10 +43,11 @@ Internal order management system with login, database access via EF Core, and mo
 ---
 
 ## 🎼 KeyChordFinder
-**Tech:** Blazor, MAUI, SQLite, MudBlazor, Music Theory Logic  
-A tool for musicians to explore chords, scales, and intervals. Planned features include ear training, metronome, music theory, and tuner tools. 
+**Tech:** ASP.NET Core (.NET 10), PostgreSQL, EF Core, Redis, TypeScript, Vite, Docker Compose, Caddy, GitHub Actions  
+A free web app for musicians, live at **keychordfinder.com**. Find every chord in a scale, identify a chord from its notes, build chord progressions (with arpeggios and MIDI export), train your ear, tune an instrument, practice singing and keep your own chords, scales and arpeggios. Notes and chords are played with real instrument samples (piano, guitars, bass, strings and more).  
+Accounts with e-mail confirmation (JWT + refresh tokens). Self-hosted on a Hetzner VPS: Docker Compose, automatic HTTPS (Let's Encrypt), a hardened container setup, nightly database backups and automatic deployment on every merge to `main`.
 
-📎 [Repository](https://github.com/Marcus0035/KeyChordFinder)
+📎 [keychordfinder.com](https://keychordfinder.com)
 
 ---
 
