@@ -5,6 +5,14 @@ Welcome to my developer portfolio. Here you'll find my most important projects c
 
 ---
 
+## 🎼 KeyChordFinder 2.0 – built together with Claude Code
+**Tech:** ASP.NET Core (.NET 10), PostgreSQL, Redis, TypeScript, Docker Compose, Caddy, GitHub Actions  
+A free web app for musicians: chord and scale finder, progression builder with MIDI export, ear training, tuner, metronome and real instrument sounds. Built with Claude Code (AI pair programming) from the database to the Hetzner VPS it runs on (HTTPS, automatic deploys, nightly backups).
+
+📎 [keychordfinder.com](https://keychordfinder.com)
+
+---
+
 ## ⚓ BattleShips API
 
 Tech: ASP.NET Core (.NET 8), EF Core, SQL Server, Swagger, Docker, Docker Compose, xUnit
@@ -43,10 +51,10 @@ Internal order management system with login, database access via EF Core, and mo
 ---
 
 ## 🎼 KeyChordFinder
-**Tech:** ASP.NET Core (.NET 10), PostgreSQL, Redis, TypeScript, Docker Compose, Caddy, GitHub Actions  
-A free web app for musicians: chord and scale finder, progression builder with MIDI export, ear training, tuner, metronome and real instrument sounds. Built by me from the database to the Hetzner VPS it runs on (HTTPS, automatic deploys, nightly backups).
+**Tech:** Blazor, MAUI, SQLite, MudBlazor, Music Theory Logic  
+A tool for musicians to explore chords, scales, and intervals. Planned features include ear training, metronome, music theory, and tuner tools. 
 
-📎 [keychordfinder.com](https://keychordfinder.com)
+📎 [Repository](https://github.com/Marcus0035/KeyChordFinder)
 
 ---
 
