@@ -43,30 +43,8 @@ Internal order management system with login, database access via EF Core, and mo
 ---
 
 ## 🎼 KeyChordFinder
-**Tech:** ASP.NET Core (.NET 10), PostgreSQL, EF Core, Redis, TypeScript (Vite, no framework), Web Audio API, xUnit, Vitest, Docker Compose, Caddy, GitHub Actions  
-
-A free web app for musicians, live at **[keychordfinder.com](https://keychordfinder.com)**.
-
-I make all kinds of music, from acoustic and electric guitars and bass to EDM like techno and liquid, and I wanted one place for chords, scales and ear training instead of five different sites. I could not find one, so I built it, from the database to the server it runs on.
-
-**What it does**
-- **Chord Finder** – click keys on a piano and see which chord they form, inversions included
-- **Progression Builder** – every chord of a key and scale on piano or guitar, dragged onto a timeline, played on repeat, with arpeggios (pattern, speed, octaves) and MIDI export for a DAW
-- **Ear Training** – guess notes, intervals, scales and chords, only the ones you choose, with statistics and favourite exercises
-- **Theory** – all scales and chords with their steps and intervals, ready to listen to
-- **Tuner, Singing and Metronome** – microphone pitch detection in the browser, singing practice and a metronome with accents, subdivisions and seven sounds
-- **My own collection** – custom chords, scales and arpeggios saved to the account
-- **Real instrument sounds** – piano, acoustic, nylon and electric guitar, bass, harp, cello, violin, flute, xylophone and organ, played with the Web Audio API
-- **Achievements** – two groups of goals that unlock colours, instruments and the collection
-
-**Backend**
-- Layered solution: API, Services (domain logic, caching, e-mail), Data (EF Core, migrations, seed data) and a test project (44 xUnit tests)
-- Accounts on ASP.NET Core Identity with e-mail confirmation, password reset, lockout, JWT access tokens and rotating refresh tokens in an `HttpOnly` cookie (stored only as SHA-256 hashes)
-- Rate limiting of endpoints that send e-mail, Redis (HybridCache) caching, typed TypeScript client generated from the OpenAPI document
-
-**Hosting and DevOps**
-- Self-hosted on a Hetzner VPS with Docker Compose: Caddy with automatic HTTPS (Let's Encrypt), Postgres and Redis in a network without internet access, read-only API container, dropped capabilities and memory limits
-- GitHub Actions deploys every merge to `main` over a restricted SSH key; nightly `pg_dump` backups with rotation
+**Tech:** ASP.NET Core (.NET 10), PostgreSQL, Redis, TypeScript, Docker Compose, Caddy, GitHub Actions  
+A free web app for musicians: chord and scale finder, progression builder with MIDI export, ear training, tuner, metronome and real instrument sounds. Built by me from the database to the Hetzner VPS it runs on (HTTPS, automatic deploys, nightly backups).
 
 📎 [keychordfinder.com](https://keychordfinder.com)
 
