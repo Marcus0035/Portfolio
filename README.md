@@ -38,7 +38,7 @@ The site displays available days connected to a Google Calendar and includes an 
 **Tech:** .NET 9, Playwright, MailKit, Docker  
 Automatically monitors the FL Studio price and sends HTML email notifications when the price drops. Supports Docker, retry logic, logging, and Gmail SMTP.  
 
-📎 [Repository](https://github.com/Marcus0035/FlChecker2)
+📎 [Repository](https://github.com/Marcus0035/FlChecker)
 
 ---
 
